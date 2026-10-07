@@ -19,7 +19,7 @@ Me chamo Vitor Hugo Alonso Assalin, sou de Rio Claro - SP. Atualmente, estou cur
             src="https://custom-icon-badges.demolab.com/github/followers/VitorAssalin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="www.linkedin.com/in/vitor-assalin-4a7436263">
+    <a href="https://www.linkedin.com/in/vitor-assalin-4a7436263">
         <img 
             alt="LinkedIn" 
             title="Conecte-se no LinkedIn" 
