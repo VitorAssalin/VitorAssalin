@@ -108,7 +108,7 @@ Me chamo Vitor Hugo Alonso Assalin, sou de Rio Claro - SP. Atualmente, estou cur
     align="left" 
     alt="Linguagens mais usadas" 
     height="195" 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gkanawati&layout=compact&langs_count=6&theme=tokyonight"
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAssalin&layout=compact&langs_count=6&theme=tokyonight"
   />
 </p>
 
