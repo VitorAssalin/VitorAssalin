@@ -102,8 +102,7 @@ Me chamo Vitor Hugo Alonso Assalin, sou de Rio Claro - SP. Atualmente, estou cur
     alt="Estatísticas do GitHub" 
     height="195" 
     style="padding-right: 10px;" 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorAssalin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
+    [![Vitor Assalin GitHub stats](https://github-stats-extended.vercel.app/api?username=VitorAssalin)](https://github.com/stats-organization/github-stats-extended)  />
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
